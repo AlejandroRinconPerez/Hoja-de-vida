@@ -1,10 +1,12 @@
 .background-container {
-    width: 100%;
+    width: 80%;
     height: 35vh;
     position: relative;
-    background:url(https://www.publicdomainpictures.net/pictures/120000/velka/blue-square-texture-background.jpg) no-repeat  center;
-    background-size: cover;
-    margin: 40px auto 0auto;
+    background-color: #101935;
+    /* background:url(https://www.publicdomainpictures.net/pictures/120000/velka/blue-square-texture-background.jpg) no-repeat  center;
+    background-size: cover; */
+    margin:auto;
+    
     
 }
 
@@ -12,7 +14,7 @@
     text-align: right;
     font-size: 45px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:  #b6cbe0;
+    color:  #369CFC;
 
 }
 
@@ -20,12 +22,32 @@ h1 {
     text-align: right;
     font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #b6cbe0;
+    color: #369CFC;
 }
 
-/* body{
+#Indice {
+    color:#f8f9fa;
+
+
+
+}
+
+body{
     
     position: relative;
-    background:url(https://media.istockphoto.com/id/1504247722/es/foto/background-azul-verde-pastel-degradado-grunge-textura-verano-primavera-patr%C3%B3n-abstracto.webp?b=1&s=170667a&w=0&k=20&c=PSf8d-YYRPK9BuDBCEbkmY7vA-7Mit0deBDMD3JYyK0=) no-repeat  center;
-    background-size: cover;
-} */
+    background-color: #E0EAF5;
+   
+} 
+
+#Resumen-profesional{
+    background-color: #101935;
+
+}
+#ti-resumen-profesional{
+    color: #369CFC;
+}
+#es-resumen-profesional{
+    color: #369CFC;
+}
+
+
