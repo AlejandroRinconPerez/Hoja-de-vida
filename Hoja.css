@@ -1,0 +1,30 @@
+.background-container {
+    width: 100%;
+    height: 40vh;
+    position: relative;
+    background:url(https://media.istockphoto.com/id/1504247722/es/foto/background-azul-verde-pastel-degradado-grunge-textura-verano-primavera-patr%C3%B3n-abstracto.webp?b=1&s=170667a&w=0&k=20&c=PSf8d-YYRPK9BuDBCEbkmY7vA-7Mit0deBDMD3JYyK0=) no-repeat  center;
+    background-size: cover;
+    
+}
+
+#titulo-1 {
+    text-align: right;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  #2c3e50;
+
+}
+
+h1 {
+    text-align: right;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2c3e50;
+}
+
+body{
+    
+    position: relative;
+    background:url(https://media.istockphoto.com/id/1504247722/es/foto/background-azul-verde-pastel-degradado-grunge-textura-verano-primavera-patr%C3%B3n-abstracto.webp?b=1&s=170667a&w=0&k=20&c=PSf8d-YYRPK9BuDBCEbkmY7vA-7Mit0deBDMD3JYyK0=) no-repeat  center;
+    background-size: cover;
+}
