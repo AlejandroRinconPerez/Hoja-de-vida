@@ -2,7 +2,7 @@
     width: 80%;
     height: 35vh;
     position: relative;
-    background-color: #101935;
+    background-color: #033A06;
     /* background:url(https://www.publicdomainpictures.net/pictures/120000/velka/blue-square-texture-background.jpg) no-repeat  center;
     background-size: cover; */
     margin:auto;
@@ -14,7 +14,7 @@
     text-align: right;
     font-size: 45px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:  #369CFC;
+    color:  #B3D4BE;
 
 }
 
@@ -22,7 +22,7 @@ h1 {
     text-align: right;
     font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #369CFC;
+    color: #B3D4BE;
 }
 
 #Indice {
@@ -35,19 +35,19 @@ h1 {
 body{
     
     position: relative;
-    background-color: #E0EAF5;
+    background-color: #B3D4BE;
    
 } 
 
 #Resumen-profesional{
-    background-color: #101935;
+    background-color: #033A06;
 
 }
 #ti-resumen-profesional{
-    color: #369CFC;
+    color: #B3D4BE;
 }
 #es-resumen-profesional{
-    color: #369CFC;
+    color: #B3D4BE;
 }
 
 
